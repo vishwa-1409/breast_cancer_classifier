@@ -20,6 +20,8 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with breast_cancer_classifier.  If not, see <http://www.gnu.org/licenses/>.
 # ==============================================================================
+
+# my changes
 """
 Generates benign and malignant heatmaps for cropped images using patch classifier.
 """
