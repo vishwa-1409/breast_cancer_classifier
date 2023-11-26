@@ -23,7 +23,7 @@
 
 # my changes
 #jhjhjh
-#----modification----
+#---vishvwa---
 """
 Generates benign and malignant heatmaps for cropped images using patch classifier.
 """
